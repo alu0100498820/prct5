@@ -51,12 +51,12 @@ end
 
  #Resultados
 
-  x = Fraccion.new(2, 5)
-  y = Fraccion.new(3, 6)
-  puts "RESULTADOS";
-  puts "Valor de x:"; puts x
-  puts "Valor de y:"; puts y
-  puts "El valor de la suma es:"; puts x.suma(y)
-  puts "El valor de la resta es:"; puts x.resta(y)
-  puts "El valor de la multiplicacion es:"; puts x.multipl(y)
-  puts "El valor de la division es:"; puts x.div(y)
+  #x = Fraccion.new(2, 5)
+  #y = Fraccion.new(3, 6)
+  #puts "RESULTADOS";
+  #puts "Valor de x:"; puts x
+  #puts "Valor de y:"; puts y
+  #puts "El valor de la suma es:"; puts x.suma(y)
+  #puts "El valor de la resta es:"; puts x.resta(y)
+  #puts "El valor de la multiplicacion es:"; puts x.multipl(y)
+  #puts "El valor de la division es:"; puts x.div(y)
