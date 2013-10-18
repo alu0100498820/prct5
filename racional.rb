@@ -49,7 +49,8 @@ class Fraccion
 
 end
 
- #Resultados
+ 
+ #Mostramos los Resultados
 
   #x = Fraccion.new(2, 5)
   #y = Fraccion.new(3, 6)
